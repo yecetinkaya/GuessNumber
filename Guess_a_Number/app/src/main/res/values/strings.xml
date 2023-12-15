@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CansuThePretty</string>
+    <string name="tahmin_text_view">Bir sayı gir cnm</string>
+    <string name="tahmin_et">Bana tıkla.</string>
+    <string name="hosgeldin"><![CDATA[Hoşgeldin Ciğerim <3]]></string>
+    <string name="tebriks">Helal olsun piremses.</string>
+    <string name="kucuk">Daha küçük bir sayı tahmin etmelisin.</string>
+    <string name="buyuk">Daha büyük bir sayı tahmin etmelisin.</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
